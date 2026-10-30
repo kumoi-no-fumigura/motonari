@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/motonari",
  "yomi": "ぞうじゅさんみもとなりきょうえいそう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（詠草）",
+  "era": "戦国時代",
+  "author": "毛利元就",
+  "desc": "毛利元就の詠草に評語を添えたもの。末尾に里村紹巴の跋があり、元亀3年2月に記したとある。"
+ },
  "editions": [
   {
    "pid": "936505",
